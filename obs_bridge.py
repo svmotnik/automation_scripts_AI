@@ -8,4 +8,3 @@ def launch_gui(*args):
 
 def script_load(settings):
     obs.obs_hotkey_register_frontend("open_bug_gui", "Bug Reporter", launch_gui)
-
