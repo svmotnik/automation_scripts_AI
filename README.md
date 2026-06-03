@@ -1,2 +1,2 @@
-# automation_scripts_AI
-Scripts for automating workflow (supported with AI.
+# automation_scripts_with_AI
+Scripts for automating workflow (made with AI.
