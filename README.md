@@ -1,4 +1,4 @@
-# automation_scripts_with_AI
+# automation_scripts_AI
 Scripts for automating workflow (made with AI).
 
 
